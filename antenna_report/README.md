@@ -112,3 +112,4 @@
 * [antenna_132_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/antenna_report/antenna_132_report.html)
 * [antenna_133_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/antenna_report/antenna_133_report.html)
 * [antenna_135_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/antenna_report/antenna_135_report.html)
+* [antenna_136_report.html](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/antenna_report/antenna_136_report.html)
