@@ -5,3 +5,4 @@
 * [full_day_rfi_2459985.html (2023-2-9)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/full_day_rfi/full_day_rfi_2459985.html)
 * [full_day_rfi_2459986.html (2023-2-10)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/full_day_rfi/full_day_rfi_2459986.html)
 * [full_day_rfi_2459987.html (2023-2-11)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/full_day_rfi/full_day_rfi_2459987.html)
+* [full_day_rfi_2459988.html (2023-2-12)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/full_day_rfi/full_day_rfi_2459988.html)
