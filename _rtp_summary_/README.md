@@ -12,3 +12,4 @@
 * [rtp_summary_2459985.html (2023-2-9)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/_rtp_summary_/rtp_summary_2459985.html)
 * [rtp_summary_2459986.html (2023-2-10)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/_rtp_summary_/rtp_summary_2459986.html)
 * [rtp_summary_2459987.html (2023-2-11)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/_rtp_summary_/rtp_summary_2459987.html)
+* [rtp_summary_2459988.html (2023-2-12)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/_rtp_summary_/rtp_summary_2459988.html)
