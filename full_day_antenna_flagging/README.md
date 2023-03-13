@@ -9,3 +9,4 @@
 * [full_day_antenna_flagging_2460013.html (2023-3-9)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/full_day_antenna_flagging/full_day_antenna_flagging_2460013.html)
 * [full_day_antenna_flagging_2460014.html (2023-3-10)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/full_day_antenna_flagging/full_day_antenna_flagging_2460014.html)
 * [full_day_antenna_flagging_2460015.html (2023-3-11)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/full_day_antenna_flagging/full_day_antenna_flagging_2460015.html)
+* [full_day_antenna_flagging_2460016.html (2023-3-12)](https://htmlpreview.github.io/?https://github.com/HERA-Team/H6C_Notebooks_2/blob/main/full_day_antenna_flagging/full_day_antenna_flagging_2460016.html)
